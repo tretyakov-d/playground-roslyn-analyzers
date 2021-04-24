@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>PlaygroundAnalyzers</id>
+        <version>0.2.0</version>
+        <title>Playground Analyzers</title>
+        <authors>Auhtor name</authors>
+        <description>Playground analyzers</description>
+    </metadata>
+    <files>
+        <file src="bin\$Configuration$\netstandard2.0\PlaygroundAnalyzers.dll" target="analyzers\dotnet\cs\" />
+    </files>
+</package>

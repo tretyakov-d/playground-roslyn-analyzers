@@ -1,0 +1,7 @@
+﻿.idea/
+.vs/
+.vscode/
+bin/
+obj/
+PlaygroundPackages/
+*.user
