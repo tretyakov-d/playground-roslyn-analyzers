@@ -1,4 +1,7 @@
 ﻿# Roslyn analyzer/fixer sample project
+ 
+ > Detailed guide is here -> https://dennistretyakov.com/writing-first-roslyn-analyzer-and-codefix-provider
+ 
 
 ## ./src/PlaygroundAnalyzers
 
